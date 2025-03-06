@@ -1,0 +1,79 @@
+ @import "../../vars.css";
+
+.container {
+  font-family: var(--font-roboto);
+  margin-top: 76px;
+  color: var(--color-text);
+  margin-left: 10%;
+  margin-right: 10%;
+ 
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.marqueecontainer {
+  width: 100%;
+  overflow: hidden;
+  background-color: #f3f4f6;
+  padding: 43px 0;
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #232eaf 0%, #4e9fd4 100%);
+  box-shadow: 0 13px 14px 0 #04152d;
+  position: relative;
+}
+
+.marqueecontent {
+  display: flex;
+}
+
+
+.marqueecontent ul {
+  list-style: none;
+}
+
+.marqueecard {
+  width: 650px;
+  background-color: #224587;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 13px;
+  padding: 22px;
+  margin: 0 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 0.3s ease;
+}
+
+.marqueecardimg {
+  width: 25%;
+  object-fit: contain;
+  border-radius: 120px;
+  margin-bottom: 12px;
+}
+
+.marqueecard h3 {
+  font-size: 28px;
+  font-weight: 500;
+}
+.marqueecard h4 {
+  font-size: 20px;
+  text-align: left;
+}
+
+.marqueecard p {
+  font-size: 22px;
+  margin: 0;
+}
+
+
+

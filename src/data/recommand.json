@@ -1,0 +1,67 @@
+[ 
+    { 
+    "name": "Harshal Raverkar",
+    "designation": "Assistant Vice President - DevSecOps Software Engineer @SwissRe || Founder @TextError Technologies",
+    "date": "March 4, 2025" ,
+    "recommandation": ["I have had the privilege of working with Swaroop, and his impact has been nothing short of exceptional. As a mentor, he possesses a rare ability to guide and inspire, always willing to share his deep expertise in Agile methodologies with clarity and precision.","Swaroop's leadership is a testament to true servant leadership—he empowers teams, fosters collaboration, and creates an environment where individuals thrive. His problem-solving skills are extraordinary; no matter how complex the challenge, he approaches it with strategic thinking, patience, and a solution-oriented mindset.","Beyond his technical acumen, Swaroop is incredibly supportive, always ready to help others navigate obstacles with confidence. His ability to balance strong leadership with genuine empathy makes him a true asset to any organization. Anyone who has the opportunity to work with Swaroop will undoubtedly benefit from his guidance, knowledge, and unwavering dedication to excellence."],
+    "image": "Recommendation/Harshal.jpg" 
+   },
+
+   { 
+    "name":  "Albert D'costa",
+    "designation": "Global Production Manager",
+    "date": "March 23, 2015",
+    "recommandation": ["Swaroop has been excellent colleague who looks at every task with a view for improvement. the question of 'Can I do it better' is always on his mind. His eye for detail is excellent and always tries to make it easier for his colleagues and friends."],
+    "image": "Recommendation/Albert.jpg"    
+   },
+
+   { 
+    "name":"Vrijesh Singh",
+    "designation": "Project Management | PPM Consultant | ADO DevOps Consultant",
+    "date": "March 25, 2015",
+    "recommandation": ["I've had the privilege of working with Swaroop for little more than 18 months now and in that time I have known him to be a well-grounded and down to earth colleague. He is a calculated risk taker, pragmatic leader and realist who seems to grasp ideas holistically whilst still taking note to the more acute details.", "I found this to be incredibly valuable in working with him, as it allows him (and for those who work with him) the ability to explore and understand nearly all possible perspectives to an idea and its numerous applications. He is an hard worker and value creator in the truest sense. Having potential for handling big team size & motivating team members during Project execution."],
+    "image": "Recommendation/Vrijesh.jpg"    
+   },
+
+   { 
+    "name": "Praveen Deshpande",
+    "designation": "Solutions Architect at GeoOpsis Software Services Private Limited",
+    "date":"February 21, 2025",
+    "recommandation": ["Swaroop Humane is an exceptional Scrum Master and Project Manager who has led our team with strategic vision, agility, and unwavering dedication for the past six years. His leadership, problem-solving, and stakeholder management skills ensure seamless project execution. Swaroop fosters collaboration, innovation, and efficiency, driving high-impact results. A true servant leader, he transforms challenges into opportunities, making him an invaluable asset to any organization. Highly recommended!"],
+    "image": "Recommendation/Praveen.jpg"   
+   },
+
+   { 
+    "name": "Rajesh Kumar",
+    "designation": "GIS Developer | PEAN | MEAN Full Stack Software Developer at GeoOpsis Software Services Private Limited",
+    "date":"February 21, 2025",
+    "recommandation": ["I've had the privilege of working with Swaroop Humane for the past six years, and he is one of the most effective Scrum Masters and Project Managers I've encountered. His ability to align teams, remove roadblocks, and drive efficiency is truly remarkable. Swaroop doesn't just manage projects—he empowers teams, fosters collaboration, and ensures continuous improvement.", "His keen eye for risk mitigation and process optimization makes complex challenges feel manageable. Beyond his technical expertise, his calm leadership and problem-solving approach create an environment where teams excel. Swaroop is not just a leader but a true catalyst for success, and I wholeheartedly recommend him to any organization seeking agility, innovation, and excellence in project execution."],
+    "image": "Recommendation/Rajesh.jpg"   
+   },
+
+   { 
+    "name": "Pratima Kulkarni",
+    "designation": "Full Stack Developer, CNS ECE BP, Nokia",
+    "date": "February 21, 2025",
+    "recommandation": ["Swaroop Humane is an exceptional Project Manager with a deep understanding of Agile methodology and expertise in Scrum practices.His ability to drive efficiency, foster collaboration, and deliver results sets him apart. A proactive leader and strategic thinker ,he ensures seamless execution and continuous improvement. A true asset to any organisation."],
+    "image": "Recommendation/Pratima.jpg"   
+   },
+
+   { 
+    "name":  "M Nuran Khan",
+    "designation": "Project Management Professional",
+    "date": "February 21, 2025",
+    "recommandation": ["Working with Swaroop Humane for nearly a decade has been an incredible experience. As the Quality Responsible, he demonstrated unwavering commitment to excellence, process optimization and defect prevention. His keen attention to detail, proactive problem-solving and ability to align quality standards with project goals ensured seamless execution.", "Swaroop is a strategic thinker, strong collaborator and results-driven professional who consistently delivered high-quality outcomes. His ability to identify risks, implement improvements and drive continuous enhancement made a significant impact on our projects. His dedication, leadership and expertise in quality and project management are truly commendable. I highly recommend him for any challenging role!"],
+    "image": "Recommendation/Nuran.jpg"   
+   },
+
+   { 
+    "name": "Hanuman Choudhary",
+    "designation": "Sr Analyst II Software Engineering | Generative AI Specialist | Prompt Engineering Expert",
+    "date":"February 23, 2025",
+    "recommandation": ["Swaroop Humane is a dynamic and results-driven Project Manager with a strong command of Agile methodology and deep expertise in Scrum practices. His leadership, strategic thinking, and adaptability ensure seamless execution and continuous improvement. Swaroop's ability to optimize workflows and drive high-performance teams makes him an invaluable asset."],
+    "image": "Recommendation/Hanuman.jpg"   
+   }
+   
+]
+

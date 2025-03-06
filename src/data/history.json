@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Project Manager",
+        "organization": "Geoopsis Software Services Private Ltd.",
+        "startDate": "March, 2019",
+        "endDate": "Till Date",
+        "experiences": ["Transformed team productivity by implementing Scrum methodology, leading 50+ sprint ceremonies, and empowering developers, resulting in a 30% increase in sprint velocity and 25% faster project delivery.", "Elevated test management by conducting 100+ UAT sessions, designing comprehensive test plans covering 95% of critical modules, reducing post-release defects by 40%, and boosting customer satisfaction scores by 20%.", "Maximized project visibility by leveraging JIRA for backlog management, reducing issue resolution time by 35%, improving workflow efficiency by 25%, and ensuring 100% sprint backlog completion.", "Strengthened risk mitigation through quarterly audits, identifying 90% of potential risks proactively, enforcing strict quality controls, and ensuring 100% regulatory compliance, preventing deployment failures.", "Enhanced cross-platform compatibility by leading 500+ multi-device test cases, achieving 99.9% functionality consistency, improving app performance by 20%, and driving 30% higher user retention rates."],
+        "imageSrc": "history/GeoOpsis.png"
+    },
+    {
+        "role": "Python Developer",
+        "organization": "Freelancer and Co-Founder",
+        "startDate": "February, 2017",
+        "endDate": "March, 2019",
+        "experiences": ["Led and executed two high-impact data extraction projects for e-commerce platforms, processing 1M+ data points with 99.9% accuracy, enabling clients to improve decision-making efficiency by 35% and streamline operations.", "Optimized workflow automation by engineering Python and Selenium-based web scraping solutions, reducing manual effort by 70%, accelerating data extraction speed by 50%, and achieving 100% on-time project delivery, resulting in a 25% increase in client satisfaction."],
+        "imageSrc": "history/FreeLancer.png"
+    },
+    {
+        "role": "Project Coordinator",
+        "organization": "Capital Novus Private Ltd.",
+        "startDate": "April, 2016",
+        "endDate": "February, 2017",
+        "experiences": ["Strengthened project transparency by delivering weekly status reports and tracking 100% of project milestones, leading to a 30% improvement in issue resolution speed and better decision-making.", "Enhanced project governance by maintaining 100% up-to-date documentation (Project Charter, SOW) in SharePoint, increasing accessibility and compliance adherence by 40%.", "Ensured project success by assigning tasks to 10+ team members, enforcing accountability, and executing 100+ quality assurance checks, maintaining 95% on-time project completion.", "Facilitated seamless project execution by resolving 90% of impediments within 48 hours, ensuring 100% on-time project delivery and enhanced cross-functional team efficiency.", "Boosted stakeholder engagement by conducting bi-weekly meetings and aligning 100% of key decision-makers, improving transparency and strategic alignment by 35%.", "Optimized project continuity by supporting the Project Manager in daily operations, streamlining workflows for 20+ tasks, and reducing coordination gaps by 25%.", "Elevated team performance by developing training materials for 50+ employees, boosting skill proficiency and knowledge retention by 40%.", "Proactively identified risks by tracking 15+ project activities weekly, ensuring 98% milestone adherence and mitigating potential delays.", "Improved project efficiency by collaborating with Business Analysts and Project Managers, reducing operational inefficiencies by 30% and streamlining key project processes."],
+        "imageSrc": "history/Knovos.png"
+    }
+]

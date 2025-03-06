@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Core Agile & Scrum Expertise",
+        "description": "Sprint Planning, Daily Stand-ups, Sprint Reviews, Retrospectives, SAFe, Kanban, Product Backlog Refinement, Story Point Estimation, facilitating team empowerment and self-organization, Velocity tracking, Burn-down & Burn-up charts.",
+        "image": "Skills/Scrum.jpg"
+    },
+    {
+        "title": "Project & Product Management",
+        "description":"Stakeholder Engagement, Risk & Change Management, User Story Mapping, Value-Driven Delivery.",
+        "image": "Skills/Pm.jpg"
+    },
+    {
+        "title": "Technical & Automation Skills",
+        "description": "JIRA, Confluence, CI/CD & DevOps Awareness, Test Automation Knowledge (Selenium), MS Office (Excel, Word), AI & Data-Driven Scrum - Using AI for sprint analytics & backlog prioritization.",
+        "image": "Skills/Automation.jpg"
+    },
+    {
+        "title": "Leadership & Soft Skills",
+        "description": "JIRA, Confluence, CI/CD & DevOps Awareness, Test Automation Knowledge (Selenium), MS Office (Excel, Word), AI & Data-Driven Scrum - Using AI for sprint analytics & backlog prioritization.",
+        "image": "Skills/Leadership.jpg"
+    }
+] 

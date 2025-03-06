@@ -1,0 +1,22 @@
+@import "../../vars.css";
+
+.container{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    height: 40px;
+    width: 20px;
+}
+
+.container:hover {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+
+.arrowImg{
+     background: var(--color-text);
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+

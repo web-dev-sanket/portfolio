@@ -2,7 +2,7 @@
 
 .container {
   font-family: var(--font-roboto);
-  margin-top: 76px;
+  margin-top: 4px;
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
@@ -15,6 +15,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  padding-top: 68px;
 }
 
 .marqueecontainer {
